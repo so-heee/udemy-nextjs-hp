@@ -12,3 +12,7 @@ Udemy の[学習教材](https://www.udemy.com/course/nextjs-tailwind-css-django-
 - getStaticPaths
 - Dynamic routes
 - Deploy to Vercel
+
+## メモ
+
+[svg アイコンをコピーできるサイト](https://heroicons.com/)
